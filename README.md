@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0099-recover-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0099-recover-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
