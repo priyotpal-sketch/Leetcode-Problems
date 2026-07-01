@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
