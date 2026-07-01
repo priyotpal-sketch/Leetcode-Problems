@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
