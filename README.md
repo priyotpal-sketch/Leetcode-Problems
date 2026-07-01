@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0547-number-of-provinces) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0547-number-of-provinces) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 ## Topological Sort
