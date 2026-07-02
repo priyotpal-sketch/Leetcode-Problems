@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1584-min-cost-to-connect-all-points](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+| [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 ## Graph Theory
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 ## Topological Sort
 |  |
 | ------- |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
