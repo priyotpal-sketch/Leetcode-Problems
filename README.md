@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
