@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
