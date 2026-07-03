@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
@@ -256,11 +258,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Doubly-Linked List
 |  |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
 | ------- |
