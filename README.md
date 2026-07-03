@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
