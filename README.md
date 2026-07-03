@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0018-4sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
