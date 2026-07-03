@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
