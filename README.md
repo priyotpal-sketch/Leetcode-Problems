@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0090-subsets-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
