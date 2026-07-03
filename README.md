@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
