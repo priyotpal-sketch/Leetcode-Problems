@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -255,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
