@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Queue
 |  |
