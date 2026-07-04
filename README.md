@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0125-valid-palindrome) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
