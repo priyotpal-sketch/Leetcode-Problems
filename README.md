@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0704-binary-search) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
