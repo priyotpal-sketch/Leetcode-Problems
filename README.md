@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
