@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
