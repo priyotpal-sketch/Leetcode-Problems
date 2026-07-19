@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
