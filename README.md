@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
