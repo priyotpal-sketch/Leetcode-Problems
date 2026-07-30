@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0058-length-of-last-word) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
