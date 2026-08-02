@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
