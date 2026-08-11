@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [3340-check-balanced-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 ## String Matching
 |  |
 | ------- |
