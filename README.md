@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0443-string-compression) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Doubly-Linked List
 |  |
