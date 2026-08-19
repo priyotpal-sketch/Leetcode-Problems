@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0415-add-strings) |
 | [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
