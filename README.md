@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 ## Hash Table
