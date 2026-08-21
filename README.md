@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -471,11 +473,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0415-add-strings) |
 | [2596-check-knight-tour-configuration](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0136-single-number) |
