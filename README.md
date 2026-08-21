@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 ## Hash Table
