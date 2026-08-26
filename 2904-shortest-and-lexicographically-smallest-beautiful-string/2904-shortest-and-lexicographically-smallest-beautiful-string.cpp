@@ -1,4 +1,3 @@
-// Time complexity will be 0(n^2) , approach is based on sliding window approach where you have to find the valid substring then compare them on the basis of their length and the smallest one will be the answer 
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
