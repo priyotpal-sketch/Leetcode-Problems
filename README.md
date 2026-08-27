@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3340-check-balanced-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3340-check-balanced-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
