@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0326-power-of-three) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
