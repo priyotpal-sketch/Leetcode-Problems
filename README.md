@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
