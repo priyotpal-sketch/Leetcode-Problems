@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0397-integer-replacement](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0397-integer-replacement) |
 ## Sorting
 |  |
 | ------- |
