@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
