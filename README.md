@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3783-mirror-distance-of-an-integer](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
