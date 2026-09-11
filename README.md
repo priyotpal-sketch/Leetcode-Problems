@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
