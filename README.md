@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Greedy
 |  |
 | ------- |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Brainteaser
 |  |
 | ------- |
@@ -624,4 +629,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
