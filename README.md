@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0018-4sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0049-group-anagrams) |
@@ -643,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/priyotpal-sketch/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
