@@ -9,6 +9,35 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+ // this is mine first brute force approach , the time complexity of both approach is same but in my approach it's just extra space is taken.
+//  class Solution {
+// public:
+//     ListNode* sortList(ListNode* head) {
+        
+//         vector<int> v;
+
+//         ListNode* temp = head;
+
+//         while(temp != nullptr) {
+//             v.push_back(temp->val);
+//             temp = temp->next;
+//         }
+
+        
+//         sort(v.begin(), v.end());
+
+       
+//         temp = head;
+
+//         for(int i = 0; i < v.size(); i++) {
+//             temp->val = v[i];
+//             temp = temp->next;
+//         }
+
+//         return head;
+//     }
+// };
+
 class Solution {
 public:
 
